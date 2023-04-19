@@ -1,2 +1,3 @@
 # mykey
-key_verification
+# key_verification
+# cheking the connection
